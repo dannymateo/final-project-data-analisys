@@ -1,0 +1,195 @@
+incidencia_id,created_at,updated_at,estado,prioridad,descripcion,fecha_creacion,fecha_limite_ans,minutos_ans_totales,costo_base,billing_status,descuento_ans,tipo_servicio,ans_dias,ans_penalidad_porcentaje,costo_base_servicio,ans_estado,ans_estado_final,ans_fecha_limite,ans_fecha_cierre,minutos_consumidos,minutos_restantes,minutos_totales,finalizado,ans_tiempo_limite,ans_prioridad_config,penalidad_porcentaje,costo_servicio
+1,2025-08-05 22:02:22.087278+00,2026-03-03 23:34:18.3491+00,entregado,baja,sin descripcion,2025-07-28 13:43:05+00,2025-08-04 13:44:00+00,2700,0.00,processed,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-08-04 13:44:00+00,2025-08-02 05:00:00+00,20476,0,2700,true,5d,baja,10.00,34155.00
+2,2025-08-05 22:06:04.303802+00,2026-03-03 21:56:49.544975+00,entregado,baja,sin descripcion,2025-07-28 14:25:21+00,2025-07-31 14:26:00+00,1620,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-07-31 14:26:00+00,2025-07-28 05:00:00+00,20434,0,1620,true,3d,baja,10.00,34155.00
+3,2025-08-05 22:14:09.163857+00,2026-03-03 21:56:49.533207+00,entregado,baja,sin descripcion,2025-07-28 14:33:02+00,2025-08-04 14:34:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-04 14:34:00+00,2025-08-08 05:00:00+00,20426,0,2700,true,5d,baja,10.00,68310.00
+4,2025-08-05 22:14:38.771357+00,2026-03-03 21:56:49.563457+00,entregado,baja,sin descripcion,2025-07-28 17:18:11+00,2025-08-04 17:19:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-04 17:19:00+00,2025-08-16 22:53:45+00,20261,0,2700,true,5d,baja,10.00,68310.00
+5,2025-08-05 22:14:55.879793+00,2026-03-03 22:08:42.419914+00,entregado,baja,sin descripcion,2025-07-28 18:05:27+00,2025-08-04 18:00:00+00,2700,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-08-04 18:00:00+00,2025-07-29 05:00:00+00,20220,0,2700,true,5d,baja,10.00,34155.00
+6,2025-08-05 22:22:30.600994+00,2026-03-03 22:35:19.986259+00,entregado,baja,sin descripcion,2025-07-28 18:59:31+00,2025-08-04 18:00:00+00,2700,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-08-04 18:00:00+00,2025-08-01 05:00:00+00,20220,0,2700,true,5d,baja,10.00,34155.00
+7,2025-08-05 22:23:02.485365+00,2026-03-03 22:35:19.858505+00,entregado,baja,Envío de HUB + BASE REFRIGERANTE,2025-07-28 19:29:22+00,2025-07-31 19:30:00+00,1620,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-07-31 19:30:00+00,2025-07-28 05:00:00+00,20190,0,1620,true,3d,baja,10.00,34155.00
+8,2025-08-05 22:23:26.31418+00,2026-03-03 21:56:49.774571+00,entregado,critica,El pragmático informa: No me ingresa al sistema operativo parece que tiene un error en el disco,2025-07-28 19:42:20+00,2025-07-31 19:43:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-07-31 19:43:00+00,2025-07-31 05:00:00+00,20177,0,1620,true,3d,critica,24.00,81972.00
+9,2025-08-05 22:24:59.052398+00,2026-03-03 21:56:49.580067+00,entregado,baja,sin descripcion,2025-07-28 20:54:26+00,2025-07-31 20:55:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-07-31 20:55:00+00,2025-08-19 20:36:02+00,20105,0,1620,true,3d,baja,10.00,68310.00
+10,2025-08-05 22:26:04.56599+00,2026-03-03 21:56:49.585734+00,entregado,baja,sin descripcion,2025-07-28 22:33:20+00,2025-08-04 22:34:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-04 22:34:00+00,2025-07-31 05:00:00+00,20006,0,2700,true,5d,baja,10.00,68310.00
+11,2025-08-05 22:26:21.697255+00,2026-03-03 21:56:49.752405+00,entregado,critica,El portatil esta emitiendo pitidos. Enviar de manera urgente ya que no tiene equipo para trabajar,2025-07-29 18:42:24+00,2025-08-01 18:00:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-01 18:00:00+00,2025-08-05 05:00:00+00,19680,0,1620,true,3d,critica,24.00,81972.00
+12,2025-08-05 22:26:49.643842+00,2026-03-03 23:38:49.528551+00,entregado,baja,SOBRECALENTAMIENTO FRECUENTE QUE CAUSA RALENTIZACIÓN DEL SISTEMA Y APAGADOS AUTOMÁTICOS,2025-07-30 19:51:38+00,2025-08-06 19:52:00+00,2700,0.00,processed,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-06 19:52:00+00,2025-08-07 05:00:00+00,19088,0,2700,true,5d,baja,10.00,68310.00
+13,2025-08-05 22:26:59.191166+00,2026-03-03 23:38:46.306+00,entregado,baja,sin descripcion,2025-07-30 20:08:50+00,2025-08-04 20:09:00+00,1620,0.00,processed,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,vencido,2025-08-04 20:09:00+00,2025-08-05 05:00:00+00,19071,0,1620,true,3d,baja,10.00,34155.00
+14,2025-08-05 22:27:30.537473+00,2026-03-03 21:56:49.542022+00,entregado,baja,sin descripcion,2025-07-30 20:52:02+00,2025-08-06 20:53:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-06 20:53:00+00,2025-08-21 18:49:53+00,19027,0,2700,true,5d,baja,10.00,68310.00
+15,2025-08-05 22:28:19.434789+00,2026-03-03 21:56:49.458821+00,entregado,baja,sin descripcion,2025-07-31 15:08:33+00,2025-08-08 15:09:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-08 15:09:00+00,2025-08-08 05:00:00+00,18771,0,2700,true,5d,baja,10.00,68310.00
+16,2025-08-05 22:28:41.048226+00,2026-03-03 21:56:49.247182+00,entregado,baja,sin descripcion,2025-08-01 13:38:29+00,2025-08-11 13:39:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-11 13:39:00+00,2025-08-08 05:00:00+00,18321,0,2700,true,5d,baja,10.00,68310.00
+17,2025-08-05 22:28:50.092188+00,2026-03-03 21:56:49.445806+00,entregado,baja,sin descripcion,2025-08-01 15:04:10+00,2025-08-11 15:05:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-11 15:05:00+00,2025-08-16 17:51:26+00,18235,0,2700,true,5d,baja,10.00,68310.00
+18,2025-08-05 22:28:59.208418+00,2026-03-03 22:08:42.42339+00,entregado,baja,sin descripcion,2025-08-01 15:05:57+00,2025-08-06 15:06:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-06 15:06:00+00,2025-08-01 05:00:00+00,18234,0,1620,true,3d,baja,10.00,68310.00
+19,2025-08-05 22:29:59.735184+00,2026-03-03 21:56:49.44464+00,entregado,baja,MI PORTATIL ESA MUY LENTO AUN CON POVAS COSAS ABIERTAS,2025-08-01 15:13:25+00,2025-08-11 15:14:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-11 15:14:00+00,2025-08-21 22:57:06+00,18226,0,2700,true,5d,baja,10.00,68310.00
+20,2025-08-05 22:30:44.611614+00,2026-03-03 21:56:49.557826+00,entregado,baja,sin descripcion,2025-08-04 14:40:06+00,2025-08-12 14:41:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-12 14:41:00+00,2025-08-08 15:29:32.853+00,17719,0,2700,true,5d,baja,10.00,68310.00
+22,2025-08-05 22:31:27.553475+00,2026-03-03 21:56:49.571344+00,entregado,baja,EL EQUIPO AL ENCENDERLO EN LA MAÑANA ME ESTÁ CARGANDO CON UNA PANTALLA NEGRA Y UNA LETRA BLANCA QUE ME DICE QUE SE TUVO QUE REINICIAR DEBIDO A UN ERRO INESPERADO TAMBIÉN ESTÁ PRESENTANDO LENTITUD EN LOS PROCESOS E INTERMITENCIA EN LA AGILIDAD O LLAMAS ACTIVAS EN TEAMS LO CUAL AFECTA ALTAMENTE EL DESEMPEÑO EN MI TRABAJO,2025-08-04 19:56:36+00,2025-08-08 19:57:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-08 19:57:00+00,2025-08-08 05:00:00+00,17463,0,1620,true,3d,baja,10.00,68310.00
+23,2025-08-05 22:31:35.726247+00,2026-03-03 22:35:19.99566+00,entregado,baja,sin descripcion,2025-08-04 21:54:23+00,2025-08-12 21:55:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-12 21:55:00+00,2025-08-16 17:11:10+00,17345,0,2700,true,5d,baja,10.00,68310.00
+24,2025-08-05 22:31:42.974601+00,2026-03-03 22:25:33.398323+00,entregado,baja,sin descripcion,2025-08-04 22:59:52+00,2025-08-12 23:00:00+00,2700,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-08-12 23:00:00+00,2025-08-11 16:17:40.938+00,17280,0,2700,true,5d,baja,10.00,34155.00
+25,2025-08-05 22:31:52.486116+00,2026-03-03 22:35:19.849787+00,entregado,baja,sin descripcion,2025-08-05 14:09:36+00,2025-08-13 14:10:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-13 14:10:00+00,2025-08-16 21:47:04+00,17210,0,2700,true,5d,baja,10.00,68310.00
+26,2025-08-05 22:31:59.338199+00,2026-03-03 22:35:19.977061+00,entregado,baja,sin descripcion,2025-08-05 17:13:08+00,2025-08-11 17:14:00+00,1620,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-08-11 17:14:00+00,2025-08-08 05:00:00+00,17026,0,1620,true,3d,baja,10.00,34155.00
+27,2025-08-05 22:32:11.872011+00,2026-03-03 21:56:49.465348+00,entregado,baja,sin descripcion,2025-08-05 17:14:55+00,2025-08-13 17:15:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-13 17:15:00+00,2025-08-15 06:02:55.391+00,17025,0,2700,true,5d,baja,10.00,68310.00
+28,2025-08-05 22:32:20.099753+00,2026-03-03 22:35:19.8651+00,entregado,baja,sin descripcion,2025-08-05 21:32:11+00,2025-08-11 21:33:00+00,1620,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,vencido,2025-08-11 21:33:00+00,2025-08-12 23:12:18.355+00,16827,0,1620,true,3d,baja,10.00,34155.00
+40,2025-08-05 23:54:58.143839+00,2026-03-03 23:40:17.409802+00,entregado,baja,**Fecha de Ingreso:** 4/8/2025<br>**Talla:** Talla L<br>**Periféricos a enviar:** Todos<br>**Comentario:** OK BUZO REF NUEVA DAMA,2025-07-28 05:00:00+00,2025-08-01 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,vencido,2025-08-01 23:00:00+00,2025-08-02 05:00:00+00,20520,0,2700,true,5d,baja,10.00,68310.00
+41,2025-08-05 23:55:22.530044+00,2026-03-03 23:53:16.688681+00,entregado,baja,**Fecha de Ingreso:** 4/8/2025<br>**Talla:** Talla S<br>**Periféricos a enviar:** Ninguno<br>**Comentario:** OK  BUZO REF NUEVA DAMA,2025-07-28 05:00:00+00,2025-08-01 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,vencido,2025-08-01 23:00:00+00,2025-08-02 05:00:00+00,20520,0,2700,true,5d,baja,10.00,68310.00
+42,2025-08-05 23:55:24.200787+00,2026-03-03 23:53:31.506414+00,entregado,baja,**Fecha de Ingreso:** 4/8/2025<br>**Talla:** Talla L<br>**Periféricos a enviar:** Ninguno<br>**Comentario:** OK BUZO REF NUEVA DAMA,2025-07-28 05:00:00+00,2025-08-01 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-01 23:00:00+00,2025-08-01 05:00:00+00,20520,0,2700,true,5d,baja,10.00,68310.00
+43,2025-08-05 23:55:26.120371+00,2026-03-03 23:53:53.976392+00,entregado,baja,**Fecha de Ingreso:** 4/8/2025<br>**Talla:** Talla L<br>**Periféricos a enviar:** Teclado y Mouse<br>**Comentario:** OK BUZO REF NUEVA DAMA,2025-07-28 05:00:00+00,2025-08-01 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-01 23:00:00+00,2025-08-01 05:00:00+00,20520,0,2700,true,5d,baja,10.00,68310.00
+44,2025-08-05 23:55:28.414426+00,2026-03-03 21:43:19.294907+00,entregado,baja,**Fecha de Ingreso:** 4/8/2025<br>**Talla:** Talla M<br>**Periféricos a enviar:** Ninguno<br>**Comentario:** OK CHAQUETA CORTAVIENTOS HOMBRE,2025-07-28 05:00:00+00,2025-08-01 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,vencido,2025-08-01 23:00:00+00,2025-08-03 05:00:00+00,20520,0,2700,true,5d,baja,10.00,68310.00
+45,2025-08-05 23:55:30.10812+00,2026-03-03 23:41:23.799702+00,entregado,baja,**Fecha de Ingreso:** 4/8/2025<br>**Talla:** Talla L<br>**Periféricos a enviar:** Todos<br>**Comentario:** OK BUZO REF NUEVA DAMA,2025-07-28 05:00:00+00,2025-08-01 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-01 23:00:00+00,2025-08-01 05:00:00+00,20520,0,2700,true,5d,baja,10.00,68310.00
+46,2025-08-05 23:55:33.345901+00,2026-03-03 23:43:09.026006+00,entregado,baja,**Fecha de Ingreso:** 4/8/2025<br>**Talla:** Talla XL<br>**Periféricos a enviar:** Todos<br>**Comentario:** OK CAMISA BOHIO PLAYA,2025-07-28 05:00:00+00,2025-08-01 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-01 23:00:00+00,2025-08-01 05:00:00+00,20520,0,2700,true,5d,baja,10.00,68310.00
+47,2025-08-05 23:56:39.118113+00,2026-03-03 21:43:20.359327+00,entregado,baja,**Fecha de Ingreso:** 11/8/2025<br>**Talla:** Talla XL<br>**Periféricos a enviar:** Ninguno<br>**Comentario:** OK CHAQUETA CORTAVIENTOS HOMBRE,2025-08-04 05:00:00+00,2025-08-11 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-11 23:00:00+00,2025-08-07 05:00:00+00,17820,0,2700,true,5d,baja,10.00,68310.00
+48,2025-08-05 23:56:40.649833+00,2026-03-03 23:54:12.077974+00,entregado,baja,**Fecha de Ingreso:** 11/8/2025<br>**Talla:** Talla XL<br>**Periféricos a enviar:** Todos<br>**Comentario:** OK CHAQUETA CORTAVIENTOS HOMBRE,2025-08-04 05:00:00+00,2025-08-11 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-11 23:00:00+00,2025-08-06 05:00:00+00,17820,0,2700,true,5d,baja,10.00,68310.00
+49,2025-08-05 23:56:42.46477+00,2026-03-03 23:46:05.753832+00,entregado,baja,**Fecha de Ingreso:** 11/8/2025<br>**Talla:** Talla M<br>**Periféricos a enviar:** Todos<br>**Comentario:** OK BUZO REF NUEVA DAMA,2025-08-04 05:00:00+00,2025-08-11 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-11 23:00:00+00,2025-08-06 05:00:00+00,17820,0,2700,true,5d,baja,10.00,68310.00
+50,2025-08-05 23:56:44.355896+00,2026-03-03 23:45:33.469775+00,entregado,baja,**Fecha de Ingreso:** 11/8/2025<br>**Talla:** Talla S<br>**Periféricos a enviar:** Todos<br>**Comentario:** OK BUZO REF NUEVA DAMA,2025-08-04 05:00:00+00,2025-08-11 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-11 23:00:00+00,2025-08-05 05:00:00+00,17820,0,2700,true,5d,baja,10.00,68310.00
+51,2025-08-05 23:56:46.019662+00,2026-03-03 23:46:19.255054+00,entregado,baja,**Fecha de Ingreso:** 11/8/2025<br>**Talla:** Talla M<br>**Periféricos a enviar:** Todos<br>**Comentario:** OK BUZO REF NUEVA DAMA,2025-08-04 05:00:00+00,2025-08-11 23:00:00+00,2700,0.00,processed,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-11 23:00:00+00,2025-08-07 05:00:00+00,17820,0,2700,true,5d,baja,10.00,68310.00
+59,2025-08-06 14:36:03.951962+00,2026-03-03 21:43:33.616319+00,entregado,baja,"Nuevo pedido: #13686
+
+- Portatil MacBook Pro 2020 (Cantidad: 1)
+",2025-08-06 14:34:56+00,2025-08-20 14:35:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,cumplido,2025-08-20 14:35:00+00,2025-08-12 06:02:01.544+00,16645,0,4320,true,8d,baja,10.00,97750.00
+60,2025-08-06 14:46:00.733238+00,2026-03-03 21:43:22.635461+00,entregado,baja,"Nuevo pedido: #13687
+
+- Portatil MacBook Pro 2020 (Cantidad: 1)
+",2025-08-06 14:43:58+00,2025-08-20 14:44:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 14:44:00+00,2025-08-22 15:53:48+00,16636,0,4320,true,8d,baja,10.00,97750.00
+63,2025-08-06 14:51:10.208003+00,2026-03-03 21:43:23.782909+00,entregado,baja,"Nuevo pedido: #13688
+
+- Portatil MacBook Pro 2019 Core i5, 8 GB de RAM (Cantidad: 1)
+",2025-08-06 14:46:46+00,2025-08-20 14:47:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 14:47:00+00,2025-08-22 05:16:14.694+00,16633,0,4320,true,8d,baja,10.00,97750.00
+64,2025-08-06 15:10:58.392325+00,2026-03-03 21:43:23.968028+00,entregado,baja,"Nuevo pedido: #13692
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+",2025-08-06 15:09:23+00,2025-08-20 15:10:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,cumplido,2025-08-20 15:10:00+00,2025-08-16 16:40:09+00,16610,0,4320,true,8d,baja,10.00,97750.00
+65,2025-08-06 15:16:09.643628+00,2026-03-03 21:43:24.194559+00,entregado,baja,"Nuevo pedido: #13694
+
+- Portátil Dell Latitude 3410 (Cantidad: 1)
+",2025-08-06 15:15:28+00,2025-08-20 15:16:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,cumplido,2025-08-20 15:16:00+00,2025-08-16 16:18:36+00,16604,0,4320,true,8d,baja,10.00,97750.00
+66,2025-08-06 15:16:19.085243+00,2026-03-03 22:35:19.864993+00,entregado,baja,sin descripcion,2025-08-06 15:15:08+00,2025-08-12 15:16:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-12 15:16:00+00,2025-08-15 05:13:30.127+00,16604,0,1620,true,3d,baja,10.00,68310.00
+67,2025-08-06 15:16:25.489448+00,2026-03-03 21:43:24.457607+00,entregado,baja,"Nuevo pedido: #13693
+
+- Portátil Lenovo ThinkPad E480 (Cantidad: 1)
+",2025-08-06 15:11:05+00,2025-08-20 15:12:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,cumplido,2025-08-20 15:12:00+00,2025-07-12 16:15:05+00,16608,0,4320,true,8d,baja,10.00,97750.00
+68,2025-08-06 15:16:32.218836+00,2026-03-03 21:43:25.451179+00,entregado,baja,"Nuevo pedido: #13691
+
+- Hp ProBook 440 G7 (Cantidad: 1)
+",2025-08-06 14:59:10+00,2025-08-20 15:00:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 15:00:00+00,2025-08-22 07:21:18.024+00,16620,0,4320,true,8d,baja,10.00,97750.00
+69,2025-08-06 15:16:40.240178+00,2026-03-03 22:25:35.956401+00,entregado,baja,sin descripcion,2025-08-06 14:56:45+00,2025-08-14 14:57:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-14 14:57:00+00,2025-09-06 22:24:59+00,16623,0,2700,true,5d,baja,10.00,68310.00
+71,2025-07-25 05:00:00+00,2026-03-03 22:35:19.9912+00,entregado,baja,SIN DESCRIPCION,2025-07-25 05:00:00+00,2025-07-31 23:00:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-07-31 23:00:00+00,2025-08-08 05:00:00+00,21060,0,2700,true,5d,baja,10.00,68310.00
+77,2025-08-08 19:47:24.071+00,2026-03-03 21:56:49.255992+00,entregado,baja,"ENVIAR EL EQUIPO DE MANERA URGENTE
+
+",2025-08-08 19:47:24.071+00,2025-08-15 19:48:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-15 19:48:00+00,2025-08-09 13:07:50+00,15852,0,2700,true,5d,baja,10.00,68310.00
+88,2025-08-09 23:09:42.81234+00,2026-03-03 21:56:49.451731+00,entregado,baja,Sin descripcion de un problema,2025-08-08 15:29:57+00,2025-08-15 15:30:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-15 15:30:00+00,2025-08-18 16:48:29+00,16050,0,2700,true,5d,baja,10.00,68310.00
+89,2025-08-09 23:10:12.473067+00,2026-03-03 21:56:49.587225+00,entregado,baja,Sin descripcion de un problema,2025-08-08 18:19:01+00,2025-08-15 18:00:00+00,2700,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-08-15 18:00:00+00,2025-08-14 20:45:04+00,15900,0,2700,true,5d,baja,10.00,34155.00
+90,2025-08-09 23:13:47.525857+00,2026-03-03 21:43:25.673358+00,entregado,baja,"Nuevo pedido: #13696
+
+- Hp ProBook 440 G7 (Cantidad: 1)
+",2025-08-06 16:19:59+00,2025-08-20 16:20:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 16:20:00+00,2025-08-22 23:19:59+00,16540,0,4320,true,8d,baja,10.00,97750.00
+92,2025-08-10 00:44:59.981341+00,2026-03-03 21:43:26.597307+00,entregado,baja,"Nuevo pedido: #13695
+
+- Camiseta keep Moving (Cantidad: 1)
+- Hp ProBook 440 G7 (Cantidad: 1)
+",2025-08-06 16:40:08+00,2025-08-20 16:41:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 16:41:00+00,2025-08-22 23:54:09.757+00,16519,0,4320,true,8d,baja,10.00,97750.00
+93,2025-08-10 00:45:44.962842+00,2026-03-03 21:43:27.009081+00,entregado,baja,"Nuevo pedido: #13698
+
+- Portátil Lenovo ThinkPad E480 (Cantidad: 1)
+",2025-08-06 17:34:24+00,2025-08-20 17:35:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 17:35:00+00,2025-08-23 18:49:24+00,16465,0,4320,true,8d,baja,10.00,97750.00
+94,2025-08-10 00:46:19.225902+00,2026-03-03 21:43:27.182556+00,entregado,baja,"Nuevo pedido: #13699
+
+- Hp ProBook 440 G7 (Cantidad: 1)
+",2025-08-06 18:55:58+00,2025-08-20 18:00:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 18:00:00+00,2025-08-26 15:48:46+00,16440,0,4320,true,8d,baja,10.00,97750.00
+95,2025-08-10 00:46:51.497036+00,2026-03-03 21:43:28.381621+00,entregado,baja,"Nuevo pedido: #13700
+
+- Monitor HP COMPAQ LE2002X (Cantidad: 1)
+- Monitor HP V201 (Cantidad: 1)
+",2025-08-06 19:15:34+00,2025-08-20 19:16:00+00,4320,0.00,invoiced,0.00,Activo menor en venta,5,10.00,29700.00,vencido,cumplido,2025-08-20 19:16:00+00,2025-08-15 20:23:19+00,16424,0,4320,true,8d,baja,10.00,34155.00
+96,2025-08-10 00:47:20.701057+00,2026-03-03 21:43:28.705722+00,entregado,baja,"Nuevo pedido: #13701
+
+- Monitor HP V201 (Cantidad: 1)
+",2025-08-06 19:56:19+00,2025-08-20 19:57:00+00,4320,0.00,invoiced,0.00,Activo menor en venta,5,10.00,29700.00,vencido,cumplido,2025-08-20 19:57:00+00,2025-08-15 20:25:57+00,16383,0,4320,true,8d,baja,10.00,34155.00
+97,2025-08-10 00:48:00.344744+00,2026-03-03 21:43:31.185262+00,entregado,baja,"Nuevo pedido: #13702
+
+- Hp ProBook 440 G7 (Cantidad: 1)
+",2025-08-06 21:39:36+00,2025-08-20 21:40:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 21:40:00+00,2025-08-26 17:31:06+00,16280,0,4320,true,8d,baja,10.00,97750.00
+98,2025-08-10 00:48:11.241601+00,2026-03-03 21:43:31.33889+00,entregado,baja,"Nuevo pedido: #13703
+
+- Hp ProBook 440 G7 (Cantidad: 1)
+",2025-08-06 23:18:16+00,2025-08-20 23:00:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-20 23:00:00+00,2025-08-27 16:43:38+00,16200,0,4320,true,8d,baja,10.00,97750.00
+99,2025-08-10 00:48:44.432022+00,2026-03-03 21:43:29.127074+00,entregado,baja,"Nuevo pedido: #13704
+
+- Monitor HP V201 (Cantidad: 1)
+",2025-08-08 02:30:03+00,2025-08-20 23:00:00+00,4320,0.00,invoiced,0.00,Activo menor en venta,5,10.00,29700.00,vencido,cumplido,2025-08-20 23:00:00+00,2025-08-19 18:46:04+00,16200,0,4320,true,8d,baja,10.00,34155.00
+100,2025-08-10 00:49:28.544806+00,2026-03-03 21:43:29.763946+00,entregado,baja,"Nuevo pedido: #13705
+
+- Portátil Lenovo ThinkPad E480 (Cantidad: 1)
+",2025-08-08 14:12:21+00,2025-08-21 14:13:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,cumplido,2025-08-21 14:13:00+00,2025-08-20 05:09:19.695+00,16127,0,4320,true,8d,baja,10.00,97750.00
+101,2025-08-10 00:50:10.066455+00,2026-03-03 21:43:30.508552+00,entregado,baja,"Nuevo pedido: #13706
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+",2025-08-08 18:42:59+00,2025-08-21 18:00:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,cumplido,2025-08-21 18:00:00+00,2025-08-16 19:24:00.802+00,15900,0,4320,true,8d,baja,10.00,97750.00
+102,2025-08-11 14:03:19.601413+00,2026-03-03 22:25:33.277452+00,entregado,baja,**Fecha de Ingreso:** 19/8/2025<br>**Talla:** Talla L<br>**Periféricos a enviar:** Diadema y Monitor<br>**Comentario:** Sin comentarios adicionales.,2025-08-12 05:00:00+00,2025-08-19 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-19 23:00:00+00,2025-08-14 22:57:29.313+00,15120,0,2700,true,5d,baja,10.00,68310.00
+103,2025-08-11 14:03:22.562933+00,2026-03-03 22:35:19.85579+00,entregado,baja,**Fecha de Ingreso:** 19/8/2025<br>**Talla:** Talla M<br>**Periféricos a enviar:** Todos<br>**Comentario:** Sin comentarios adicionales.,2025-08-12 05:00:00+00,2025-08-19 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-19 23:00:00+00,2025-08-15 03:32:13.066+00,15120,0,2700,true,5d,baja,10.00,68310.00
+104,2025-08-11 14:03:25.29802+00,2026-03-03 22:35:19.999699+00,entregado,baja,**Fecha de Ingreso:** 19/8/2025<br>**Talla:** Talla L<br>**Periféricos a enviar:** Todos<br>**Comentario:** Sin comentarios adicionales.,2025-08-12 05:00:00+00,2025-08-19 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-19 23:00:00+00,2025-08-14 16:29:45+00,15120,0,2700,true,5d,baja,10.00,68310.00
+105,2025-08-11 16:22:01.091999+00,2026-03-03 21:56:49.528629+00,entregado,baja,"TENGO PROBLEMAS CONFIGURANDO LA HORA Y LA FECHA DE MI PORTATIL ME APARECE ""PERDIDA DE ALIMENTACION DEL RELOJ DE TIEMPO REAL (005)""",2025-08-11 16:06:46+00,2025-08-19 16:07:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-19 16:07:00+00,2025-08-23 18:42:33+00,15473,0,2700,true,5d,baja,10.00,68310.00
+106,2025-08-11 16:22:37.151865+00,2026-03-03 22:35:22.157466+00,entregado,baja,REVISAR MUY BIEN EL EQUIPO QUE SE ENVIE YA QUE EL QUE SE LE HABIA ENVIADO ANTERIORMENTE TENIA FALLAS EN EL TECLADO. VALIDAR QUE EL EQUIPO ESTE FUNCIONANDO CORRECTAMENTE IR COORDINANDO LA RECOGIDA DEL PORTÁTIL ANTERIOR,2025-08-11 15:42:40+00,2025-08-19 15:43:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-19 15:43:00+00,2025-09-01 19:45:12+00,15497,0,2700,true,5d,baja,10.00,68310.00
+107,2025-08-11 16:25:10.755952+00,2026-03-03 21:43:32.040342+00,entregado,baja,"Nuevo pedido: #13707
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+",2025-08-11 16:24:54+00,2025-08-22 16:25:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-22 16:25:00+00,2025-08-26 17:31:06+00,15455,0,4320,true,8d,baja,10.00,97750.00
+108,2025-08-11 16:40:10.398822+00,2026-03-03 21:43:31.49848+00,entregado,baja,"Nuevo pedido: #13708
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+",2025-08-11 16:39:46+00,2025-08-22 16:40:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-22 16:40:00+00,2025-08-27 21:33:49+00,15440,0,4320,true,8d,baja,10.00,97750.00
+109,2025-08-11 20:55:20.414623+00,2026-03-03 21:56:49.751967+00,entregado,critica,Sin descripcion,2025-08-11 20:54:03.172+00,2025-08-12 16:55:00+00,360,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-12 16:55:00+00,2025-08-11 22:49:54.061+00,15245,0,360,true,6h,critica,24.00,81972.00
+110,2025-08-12 13:25:17.467421+00,2026-03-03 21:56:49.583775+00,entregado,baja,SOLICITO AMABLEMENTE EL CAMBIO DE EQUIPO DEBIDO A FALLAS RECURRENTES EN EL DISCO QUE GENERAN PANTALLA AZUL DE ERROR Y REQUIEREN MÚLTIPLES INTENTOS PARA ENCENDER DESDE EL VIERNES EL EQUIPO SE APAGA DE FORMA INESPERADA MOSTRANDO EL MISMO MENSAJE DE FALLO ACTUALMENTE ADEMÁS DE LO MENCIONADO EL MICRÓFONO Y LA CÁMARA HAN DEJADO DE FUNCIONAR HE RECIBIDO SOPORTE POR PARTE DE TI PERO LA NOVEDAD PERSISTE TRAS VARIOS INTENTOS DE ACCEDER FINALMENTE EL EQUIPO ARRANCA PERO ESTE PROCESO TARDA ENTRE MEDIA HORA Y 40 MINUTOS,2025-08-12 13:17:32+00,2025-08-20 13:18:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-20 13:18:00+00,2025-08-17 15:09:31+00,15102,0,2700,true,5d,baja,10.00,68310.00
+111,2025-08-12 13:45:13.664933+00,2026-03-03 21:56:49.498954+00,entregado,alta,Sin descripcion de un problema,2025-08-12 13:41:23+00,2025-08-13 13:42:00+00,540,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-08-13 13:42:00+00,2025-08-12 23:01:03.021+00,15078,0,540,true,1d,alta,10.00,37570.00
+112,2025-08-12 19:20:13.441196+00,2026-03-03 21:56:49.520038+00,entregado,baja,PORTATIL WINDOWS CORE I7 DE 11 GEN EN DALEANTE CON 32 GB DE RAM Y SSD QUE NO SEA LENOVO,2025-08-12 19:16:51+00,2025-08-20 19:17:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-20 19:17:00+00,2025-08-28 22:43:55+00,14803,0,2700,true,5d,baja,10.00,68310.00
+113,2025-08-12 20:49:30.682795+00,2026-03-03 21:43:19.964432+00,entregado,baja,**Fecha de Ingreso:** 19/8/2025<br>**Talla:** Talla XL<br>**Periféricos a enviar:** Ninguno<br>**Comentario:** Sin comentarios adicionales.,2025-08-12 05:00:00+00,2025-08-19 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-19 23:00:00+00,2025-08-14 15:21:07+00,15120,0,2700,true,5d,baja,10.00,68310.00
+114,2025-08-12 20:50:45.774534+00,2026-03-03 22:35:20.003784+00,entregado,baja,**Fecha de Ingreso:** 19/8/2025<br>**Talla:** Talla M<br>**Periféricos a enviar:** Todos<br>**Comentario:** Sin comentarios adicionales.,2025-08-12 05:00:00+00,2025-08-19 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-19 23:00:00+00,2025-08-13 15:37:33+00,15120,0,2700,true,5d,baja,10.00,68310.00
+115,2025-08-13 01:15:15.629865+00,2026-03-03 21:44:04.764287+00,entregado,baja,"Nuevo pedido: #13710
+
+- Portátil Lenovo ThinkPad E480 (Cantidad: 1)
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+",2025-08-13 01:14:07+00,2025-08-25 23:00:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-25 23:00:00+00,2025-09-02 05:05:42.665+00,14580,0,4320,true,8d,baja,10.00,97750.00
+116,2025-08-13 14:25:16.522745+00,2026-03-03 21:56:49.449033+00,entregado,baja,Sin descripcion de un problema,2025-08-13 14:23:46+00,2025-08-19 14:24:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-19 14:24:00+00,2025-08-24 02:35:26.054+00,14496,0,1620,true,3d,baja,10.00,68310.00
+117,2025-08-13 16:10:13.031692+00,2026-03-03 22:35:19.987856+00,entregado,baja,Sin descripcion de un problema,2025-08-13 15:58:12+00,2025-08-21 15:59:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-21 15:59:00+00,2025-08-23 14:42:31+00,14401,0,2700,true,5d,baja,10.00,68310.00
+119,2025-08-13 16:20:59.971209+00,2026-03-03 22:25:33.017345+00,entregado,baja,**Fecha de Ingreso:** 19/8/2025<br>**Talla:** Talla XXL<br>**Periféricos a enviar:** Diadema y Monitor<br>**Comentario:** CAMISA BLANCA Y NEGRA HOMBRE,2025-08-12 05:00:00+00,2025-08-19 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-19 23:00:00+00,2025-08-15 14:54:13+00,15120,0,2700,true,5d,baja,10.00,68310.00
+120,2025-08-13 16:50:12.403038+00,2026-03-03 21:56:49.557275+00,entregado,baja,Sin descripcion de un problema,2025-08-13 16:47:09+00,2025-08-21 16:48:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-21 16:48:00+00,2025-08-28 22:53:47+00,14352,0,2700,true,5d,baja,10.00,68310.00
+121,2025-08-13 19:20:16.341774+00,2026-03-03 21:56:49.52811+00,entregado,baja,Sin descripcion de un problema,2025-08-13 19:18:16+00,2025-08-21 19:19:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-21 19:19:00+00,2025-08-25 22:45:49.14+00,14261,0,2700,true,5d,baja,10.00,68310.00
+122,2025-08-13 23:20:10.45715+00,2026-03-03 21:43:22.395642+00,entregado,baja,"Nuevo pedido: #13711
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+- Buzo Ref.2 (Cantidad: 1) 2XL BUZO REF NUEVA
+",2025-08-13 23:15:07+00,2025-08-26 23:00:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-26 23:00:00+00,2025-08-28 16:01:02+00,14040,0,4320,true,8d,baja,10.00,97750.00
+123,2025-08-14 04:45:13.378595+00,2026-03-03 21:43:32.475571+00,entregado,baja,"Nuevo pedido: #13680
+
+- Portátil Lenovo ThinkPad E480 (Cantidad: 1)
+",2025-07-28 17:28:45+00,2025-08-08 17:29:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-08 17:29:00+00,2025-08-13 22:05:53+00,20251,0,4320,true,8d,baja,10.00,97750.00
+124,2025-08-14 13:15:11.236042+00,2026-03-03 21:44:07.213566+00,entregado,baja,"Nuevo pedido: #13712
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+",2025-08-14 13:14:54+00,2025-08-27 13:15:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-27 13:15:00+00,2025-09-04 20:28:27.694+00,14025,0,4320,true,8d,baja,10.00,97750.00
+125,2025-08-14 13:45:13.994705+00,2026-03-03 22:35:19.993182+00,entregado,alta,Sin descripcion de un problema,2025-08-14 13:41:38+00,2025-08-15 13:42:00+00,540,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-15 13:42:00+00,2025-08-22 23:05:44.999+00,13998,0,540,true,1d,alta,18.00,75141.00
+126,2025-08-14 14:05:11.056163+00,2026-03-03 21:56:53.461893+00,entregado,baja,"Chicos en este servicio enviemos 3 portátiles  WINDOWS CORE I7 DE 11 GEN EN ADELANTE CON 32 GB DE RAM Y SSD y 1 MACBOOK AIR M4. 
+
+Todo va sin Línea Base",2025-08-14 14:01:43+00,2025-08-22 14:02:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-22 14:02:00+00,2025-09-03 03:26:26.522+00,13978,0,2700,true,5d,baja,10.00,68310.00
+127,2025-08-14 15:05:12.012824+00,2026-03-03 21:56:49.573504+00,entregado,baja,REVISAR QUE EL PORTATIL QUE SE ENVIE TENGA BIEN LOS COLORES DE LA PANTALLA. VALIDAR QUE EL EQUIPO ESTE FUNCIONANDO CORRECTAMENTE. IR COORDINANDO LA RECOGIDA DEL PORTÁTIL ANTERIOR,2025-08-14 15:00:29+00,2025-08-20 15:01:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-20 15:01:00+00,2025-08-28 04:31:02.89+00,13919,0,1620,true,3d,baja,10.00,68310.00
+128,2025-08-14 15:30:12.809998+00,2026-03-03 21:56:49.781244+00,entregado,alta,Sin descripcion de un problema,2025-08-14 15:26:03+00,2025-08-21 15:27:00+00,2160,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-21 15:27:00+00,2025-08-19 16:16:00+00,13893,0,2160,true,4d,alta,18.00,75141.00
+522,2025-08-15 19:55:09.987422+00,2026-03-03 21:44:07.85044+00,entregado,baja,"Nuevo pedido: #13716
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+",2025-08-15 19:43:37+00,2025-08-28 19:44:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-28 19:44:00+00,2025-09-04 20:28:43.025+00,13156,0,4320,true,8d,baja,10.00,97750.00
+523,2025-08-15 19:55:16.260973+00,2026-03-03 21:56:49.744492+00,entregado,alta,Sin descripcion de un problema,2025-08-15 19:28:17+00,2025-08-22 19:29:00+00,2160,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,vencido,2025-08-22 19:29:00+00,2025-08-22 20:17:30+00,13171,0,2160,true,4d,alta,18.00,75141.00
+524,2025-08-15 19:55:22.312547+00,2026-03-03 22:35:20.003365+00,entregado,baja,Sin descripcion de un problema,2025-08-15 14:37:05+00,2025-08-25 14:38:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-25 14:38:00+00,2025-08-22 16:40:46+00,13402,0,2700,true,5d,baja,10.00,68310.00
+525,2025-08-15 19:55:29.615687+00,2026-03-03 21:44:05.241424+00,entregado,baja,"Nuevo pedido: #13714
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+- Monitor Lenovo THINKVISION 1922 (Cantidad: 1)
+",2025-08-15 13:35:18+00,2025-08-28 13:36:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-28 13:36:00+00,2025-09-06 00:19:24.485+00,13464,0,4320,true,8d,baja,10.00,97750.00
+526,2025-08-15 19:55:37.228608+00,2026-03-03 21:56:49.444631+00,entregado,baja,"EL PRAGMATICO INFORMA: BUENOS DÍAS POR FAVOR SU AYUDA PARA EL CAMBIO DEL EQUIPO ESTE MAC GENERA VARIOS PROBLEMAS SE BLOOQUEA SE RE LENTILIZA
+
+FALLA COMPARTIR PANTALLA POR CHROME
+
+FE BLOQUEAN LAS SESIONES POR SAFARI",2025-08-15 13:04:31+00,2025-08-21 13:05:00+00,1620,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-21 13:05:00+00,2025-08-21 05:02:25.017+00,13495,0,1620,true,3d,baja,10.00,68310.00
+528,2025-08-15 20:05:11.5233+00,2026-03-03 21:44:06.412251+00,entregado,baja,"Nuevo pedido: #13717
+
+- Portátil Lenovo Thinkpad E14 (Cantidad: 1)
+",2025-08-15 20:04:32+00,2025-08-28 20:05:00+00,4320,0.00,invoiced,0.00,Activo en venta,5,10.00,85000.00,vencido,vencido,2025-08-28 20:05:00+00,2025-09-11 18:14:24+00,13135,0,4320,true,8d,baja,10.00,97750.00
+529,2025-08-15 20:39:46.578374+00,2026-03-03 22:35:19.858801+00,entregado,baja,**Fecha de Ingreso:** 19/8/2025<br>**Talla:** Talla XXL<br>**Periféricos a enviar:** Todos<br>**Comentario:** OK BUZO REF NUEVA HOMBRE,2025-08-12 05:00:00+00,2025-08-19 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-19 23:00:00+00,2025-08-16 16:01:35+00,15120,0,2700,true,5d,baja,10.00,68310.00
+530,2025-08-19 15:14:21.267732+00,2026-03-03 22:35:20.001459+00,entregado,baja,**Fecha de Ingreso:** 21/8/2025<br>**Talla:** Talla M<br>**Periféricos a enviar:** Todos<br>**Comentario:** Sin comentarios adicionales.,2025-08-14 05:00:00+00,2025-08-21 23:00:00+00,2700,0.00,invoiced,0.00,Ingreso de Empleado,2,10.00,59400.00,vencido,cumplido,2025-08-21 23:00:00+00,2025-08-20 05:00:00+00,14040,0,2700,true,5d,baja,10.00,68310.00
+531,2025-08-19 20:00:11.758821+00,2026-03-03 22:35:19.852088+00,entregado,alta,Sin descripcion de un problema,2025-08-19 19:58:41+00,2025-08-25 19:59:00+00,2160,0.00,invoiced,0.00,Cambio de activo menor,3,10.00,29700.00,vencido,cumplido,2025-08-25 19:59:00+00,2025-08-20 19:17:23+00,12601,0,2160,true,4d,alta,18.00,37570.00
+532,2025-08-19 21:45:11.76101+00,2026-03-03 22:08:42.420142+00,entregado,baja,Sin descripcion de un problema,2025-08-19 21:42:20+00,2025-08-26 21:43:00+00,2700,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-26 21:43:00+00,2025-08-23 15:39:18+00,12497,0,2700,true,5d,baja,10.00,68310.00
+533,2025-08-20 14:55:10.98657+00,2026-03-03 22:35:20.001533+00,entregado,alta,Sin descripcion de un problema,2025-08-20 14:50:29+00,2025-08-26 14:51:00+00,2160,0.00,invoiced,0.00,Cambio de activo,3,10.00,59400.00,vencido,cumplido,2025-08-26 14:51:00+00,2025-08-23 21:10:10+00,12309,0,2160,true,4d,alta,18.00,75141.00
