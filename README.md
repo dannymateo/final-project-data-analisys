@@ -33,12 +33,6 @@ El trabajo incluye:
 ├── Incumplimiento_SLA.ipynb    # Pipeline: ETL → EDA → BI → modelado
 
 
-*Notas:*
-
-- Colocar BD.csv en la raíz del proyecto antes de ejecutar las celdas de carga (ETL 1).
-- Ejecutar las celdas *en orden*; cada fase depende de la anterior.
-- Tras completar ETL 3 se genera BD_limpia.csv; las fases siguientes pueden cargar ese archivo.
-
 ## Integrantes
 
 | Integrante |
